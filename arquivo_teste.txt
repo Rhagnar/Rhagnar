@@ -2,7 +2,10 @@
 aaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbb
 ccccccccccccccccc
+ddddddddddddddddd
 =======
+eeeeeeeeeeeeeeeeeeeeeeeeeee
+fffffffffffffffffffffffffff
 ggggggggggggggggggggggggggg
 hhhhhhhhhhhhhhhhhhhhhhhhhhh
 >>>>>>> bugfix
